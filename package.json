@@ -1,0 +1,25 @@
+{
+  "name": "gulp-file-wrapper",
+  "version": "0.0.1",
+  "description": "A gulp plugin to wrap file content within another",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irregular/gulp-file-wrapper.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "wrapper"
+  ],
+  "author": "César Cejudo (cesar@letwrong.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irregular/gulp-file-wrapper/issues"
+  },
+  "homepage": "https://github.com/caiguanhao/gulp-file-wrapper",
+  "dependencies": {
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {}
+}

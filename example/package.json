@@ -1,0 +1,8 @@
+{
+  "name": "gulp-file-layout-example",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
